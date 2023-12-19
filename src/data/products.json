@@ -1,0 +1,54 @@
+{
+    "products": {
+        "1": {
+            "name": "Product One",
+            "description": "Description for Product One",
+            "price": "19.99"
+        },
+        "2": {
+            "name": "Product Two",
+            "description": "Description for Product Two",
+            "price": "29.99"
+        },
+        "3": {
+            "name": "Product Three",
+            "description": "Description for Product Three",
+            "price": "39.99"
+        },
+        "4": {
+            "name": "Product Four",
+            "description": "Description for Product Four",
+            "price": "49.99"
+        },
+        "5": {
+            "name": "Product Five",
+            "description": "Description for Product Five",
+            "price": "59.99"
+        },
+        "6": {
+            "name": "Product Six",
+            "description": "Description for Product Six",
+            "price": "69.99"
+        },
+        "7": {
+            "name": "Product Seven",
+            "description": "Description for Product Seven",
+            "price": "79.99"
+        },
+        "8": {
+            "name": "Product Eight",
+            "description": "Description for Product Eight",
+            "price": "89.99"
+        },
+        "9": {
+            "name": "Product Nine",
+            "description": "Description for Product Nine",
+            "price": "99.99"
+        },
+        "10": {
+            "name": "Product Ten",
+            "description": "Description for Product Ten",
+            "price": "109.99"
+        }
+    }
+}
