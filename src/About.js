@@ -20,7 +20,7 @@ function About() {
         ))}
       </ul>
     </div>
-  )}
+
   </div>
   );
 }
