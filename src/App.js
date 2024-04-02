@@ -9,7 +9,8 @@ function App() {
   return (
     <Router>
        <Routes>
-      <Route path="/products" element={<ProductList /> } />
+    
+        <Route path="/" element={<ProductList /> } />
       <Route path="/product/:productId" element={<ProductDetail />} />
       <Route path="/about" element={<About />}  />
       </Routes>
